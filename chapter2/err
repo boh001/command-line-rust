@@ -1,0 +1,8 @@
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/chapter2`
+error: The following required arguments were not provided:
+  <TEXT>
+
+Usage: chapter2 <TEXT>
+
+For more information try '--help'
